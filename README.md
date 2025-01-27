@@ -5,5 +5,5 @@
 #### If you want to get files in another folder write python3 engine.py  --place /home/example/example
 #### You can change folder by changing /home/example/example
 #### If you want to git files in another folder by type write python3 engine.py --type example --place example
-####  You can change  file type by changing typep and you can change  folder by changing place
+####  You can change  file type by changing type and you can change  folder by changing place
 #### Write everything in the command line (cmd)
